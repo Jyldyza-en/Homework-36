@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework_36</string>
+    <string name="button1">Activity_A</string>
+    <string name="button2">Activity_B</string>
+    <string name="button3">Activity_C</string>
+    <string name="fragment_a">Fragment 1</string>
+    <string name="fragment_b">Fragment 2</string>
+    <string name="fragment_c">Fragment 3</string>
+</resources>
